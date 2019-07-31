@@ -8,7 +8,7 @@
 
 			<!-- Vaadin Add-on repository -->
 			<ibiblio name="vaadin-addons" usepoms="true" m2compatible="true"
-				root="http://maven.vaadin.com/vaadin-addons" />
+				root="https://maven.vaadin.com/vaadin-addons" />
 
 			<!-- Vaadin snapshots repository -->
 			<ibiblio name="vaadin-snapshots" usepoms="true" m2compatible="true"
